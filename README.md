@@ -12,5 +12,5 @@ In the First iteration the app should:
 
 ## App Achitecture
 I will use firestore as the DB.
-I will write the backend in Node JS Express. 
+I will host the angular app using firebase. 
 The frontend will be written in Angular.
