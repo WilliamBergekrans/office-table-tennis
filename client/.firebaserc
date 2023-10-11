@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "office-table-tennis": {
+      "hosting": {
+        "office-table-tennis": [
+          "pingisligan"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "office-table-tennis"
+  }
+}
