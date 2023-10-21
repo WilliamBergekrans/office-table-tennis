@@ -1,0 +1,33 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    background-color: #9ad2cb;
+}
+
+button {
+    color: #472836;
+    opacity: 100%;
+    margin: 0 20px;
+    padding: 3px 10px;
+    background-color: transparent;
+    border: 0px;
+    font-size: 1.25em;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+}
+
+button:hover {
+    text-decoration: underline;
+}
+
+button:active {
+    transform: translateY(4px);
+}
+
+.active {
+    text-decoration: underline;
+}
