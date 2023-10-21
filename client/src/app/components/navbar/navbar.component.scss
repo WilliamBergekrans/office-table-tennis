@@ -3,7 +3,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 45px;
+    height: 60px;
     background-color: #9ad2cb;
 }
 
@@ -29,4 +29,11 @@ button:active {
 
 .active {
     text-decoration: underline;
+}
+
+.login-wrapper {
+    justify-content: flex-end;
+    justify-self: flex-end;
+    display: flex;
+    flex: 1;
 }
